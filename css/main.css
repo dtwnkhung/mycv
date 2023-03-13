@@ -578,6 +578,7 @@ nav ul li a::before {
   width: 0;
   overflow: hidden;
   color: #fff;
+  white-space: nowrap;
 }
 
 nav ul li a:hover::before {
